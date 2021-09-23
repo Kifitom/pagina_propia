@@ -1,0 +1,38 @@
+
+
+h5 { 
+    color: gold; 
+    text-align: center;
+    font-size: 10mm;
+}
+
+.armaduras {height: 30%;
+    width: 50%;
+    border-radius: 3%;
+
+}
+
+.caballerosc_flex { 
+    display: flex;
+    flex-wrap: wrap ;
+}
+
+.personajes2 { 
+    width: 40%;
+    margin: 3%;
+    border: 2px gold solid;
+    text-align: center;
+    border-radius: 5px;
+
+}
+
+.personajes2 img {
+    width: 80%;
+    border-radius: 3%;
+}
+
+.oro {
+    font-size: 6mm;
+   
+
+}

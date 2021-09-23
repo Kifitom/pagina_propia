@@ -1,0 +1,49 @@
+
+
+.saints {
+    margin-left: 2% ;
+    margin-right: 2%;
+    margin-top: 2%;
+    }
+    
+    .caballerosb_flex {
+       display: flex;
+       flex-wrap: wrap;
+    
+    }
+    
+    .personajes {
+         width: 25%;
+         margin: 3%;
+         border: 2px coral solid;
+         text-align: center;
+         border-radius: 5px;
+    
+    }
+    
+    .personajes img { 
+        width: 80%;
+        border-radius: 3%;
+    }
+
+h2 { color: coral; 
+text-align: center;
+font-size: 10mm;
+}
+
+.def { font-size: 7mm;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+.def img { 
+    width: 100%;
+   text-align: center;
+   border-radius: 3%;
+   
+}
+
+.bronce { font-size: 6mm ;
+
+
+}

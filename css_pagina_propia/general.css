@@ -1,0 +1,81 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+ }
+ 
+ footer {
+     background-color: black;
+     color: white;
+     height: 80px;
+     text-align: center;
+ }
+ 
+ footer p{
+ padding-top: 2%;
+ 
+ }
+ 
+ 
+ 
+ .separador {color: gray;
+    font-size: 10mm;
+
+
+ }
+
+
+ nav { background-color: black;
+   
+}
+ 
+
+ 
+ .Menu { 
+ display: flex; 
+ align-items: center;
+ 
+ 
+ }
+ 
+ .Menu li {
+  width: 10%;
+ list-style: none;
+ 
+ }
+ 
+ .Menu a{
+ color: white;
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+ text-decoration: none;
+ 
+ }
+ 
+ .saint_seiya {
+ flex-grow: 3;
+ 
+ 
+ }
+ 
+ .saint_seiya img {
+     width: 20%;
+ }
+ 
+ .Menu a:hover {
+ background-color: gray;
+ color: black; 
+ border: 5px gray solid;
+ border-radius: 3px;
+ 
+ }
+
+ header { 
+    text-align: center;
+    color: blue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 15mm;
+
+
+}
+
+ 

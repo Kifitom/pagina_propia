@@ -1,0 +1,32 @@
+
+
+h6 { 
+    color: steelblue; 
+    text-align: center;
+    font-size: 10mm;
+}
+
+
+.caballerosa_flex { 
+    display: flex;
+    flex-wrap: wrap ;
+}
+
+.personajes0 { 
+    width: 40%;
+    margin: 3%;
+    border: 2px steelblue solid;
+    text-align: center;
+    border-radius: 5px;
+
+}
+
+.personajes0 img {
+    width: 80%;
+    border-radius: 3%;
+}
+
+.acero {
+font-size: 6mm;
+
+}

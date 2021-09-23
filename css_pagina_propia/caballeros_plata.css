@@ -1,0 +1,29 @@
+
+    .caballerosa_flex {
+        display: flex;
+        flex-wrap: wrap;
+    
+    }
+    
+    .personajes1 {
+         width: 26%;
+         margin: 3%;
+         border: 2px silver solid;
+         text-align: center;
+         border-radius: 5px;
+    
+    }
+    
+    .personajes1 img { 
+        width: 80%;
+        border-radius: 3%;
+    }
+
+    h4 { color: silver; 
+        text-align: center; 
+        font-size: 10mm;
+    }
+
+    .plata {
+        font-size: 6mm;
+    }
